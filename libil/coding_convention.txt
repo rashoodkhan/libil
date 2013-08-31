@@ -1,0 +1,3 @@
+1. For literals names snake convention is used. eg. book_name, user_id
+2. Class names begins with Capital letters.
+3.
